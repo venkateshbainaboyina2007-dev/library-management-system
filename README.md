@@ -1,8 +1,8 @@
-&#x20;📚 Library Management System
+\# 📚 Library Management System
 
 
 
-&#x20;🚀 Overview
+\## 🚀 Overview
 
 
 
@@ -10,7 +10,7 @@ A console-based Library Management System developed using Python and Object-Orie
 
 
 
-&#x20;✨ Features
+\## ✨ Features
 
 
 
@@ -46,33 +46,33 @@ A console-based Library Management System developed using Python and Object-Orie
 
 
 
-&#x20;🛠️ Technologies Used
+\## 🛠️ Technologies Used
 
 
 
-&#x20;🐍 Python
+\* 🐍 Python
 
-&#x20;📅 datetime Module
+\* 📅 datetime Module
 
-&#x20;🏗️ Object-Oriented Programming (OOP)
-
-
-
-&#x20;🎯 OOP Concepts Implemented
+\* 🏗️ Object-Oriented Programming (OOP)
 
 
 
-&#x20;🔹 Classes \& Objects
-
-&#x20;🔹 Inheritance
-
-&#x20;🔹 Encapsulation
-
-&#x20;🔹 Polymorphism (Method Overriding)
+\## 🎯 OOP Concepts Implemented
 
 
 
-&#x20;📂 Project Structure
+\* 🔹 Classes \& Objects
+
+\* 🔹 Inheritance
+
+\* 🔹 Encapsulation
+
+\* 🔹 Polymorphism (Method Overriding)
+
+
+
+\## 📂 Project Structure
 
 
 
@@ -90,7 +90,7 @@ library-management-system/
 
 
 
-&#x20;▶️ How to Run
+\## ▶️ How to Run
 
 
 
@@ -102,7 +102,7 @@ python index.py
 
 
 
-&#x20;📖 Sample Menu
+\## 📖 Sample Menu
 
 
 
@@ -126,7 +126,7 @@ python index.py
 
 
 
-&#x20;🌟 Key Functionalities
+\## 🌟 Key Functionalities
 
 
 
@@ -150,13 +150,11 @@ python index.py
 
 
 
-&#x20;👨‍💻 Author
+\## 👨‍💻 Author
 
 
 
-Venkatesh Bainaboyina
+\*\*Venkatesh Bainaboyina\*\*
 
 
-
-⭐
 
